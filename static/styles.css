@@ -1,0 +1,17 @@
+.heading {
+    color: #37a4a2;
+    font-family: Coolvetica, sans-serif;
+    text-align: center;
+    font-size: 10vh;
+    text-shadow: 2px 2px black;
+
+}
+
+.about-fr {
+    color: lightslategray;
+    font-family: Coolvetica, ssans-serif;
+}
+
+body {
+    background-color: rgb(33, 33, 33);
+}
